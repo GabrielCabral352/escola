@@ -1,3 +1,3 @@
 # escola
 
-### Esse projeto é meu "primeiro" estudo de github
+### Esse projeto é meu "primeiro" estudo de github 😀🐶
